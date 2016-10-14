@@ -42,13 +42,13 @@ There you can find classnames of the markup blocks and elements that can be cust
 
         <ul class="project__list">
             <li class="project__item">
-                <a class="project__link project__link_empty">Pages</a> 
+                <a class="project__link project__link_empty">1</a> 
                 <ul class="project__list">
                     <li class="project__item">
-                        <a href="home.html" class="project__link">Home Page</a>
+                        <a href="home.html" class="project__link">2</a>
                     </li>
                     <li class="project__item">
-                        <a href="#" class="project__link">About Page</a>
+                        <a href="#" class="project__link">3</a>
                     </li>
                     <li class="project__item">
                         <a href="#" class="project__link">Portfolio Page</a>
